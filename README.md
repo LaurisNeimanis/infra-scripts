@@ -19,7 +19,7 @@ A collection of Bash scripts for common infrastructure tasks: automated backups,
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/infra-scripts.git
+   git clone https://github.com/LaurisNeimanis/infra-scripts.git
    cd infra-scripts
    ```
 
