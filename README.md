@@ -60,7 +60,11 @@ A collection of Bash scripts for common infrastructure tasks: automated backups,
 
 Feel free to open issues or submit pull requests to add new scripts or improve existing ones.
 
+## License
+
+This project is open-source and available under the MIT License.
+
 ---
 
-*Created by Lauris Neimanis*
+🔗 **Back to portfolio:** [My Portfolio](https://github.com/LaurisNeimanis/my-portfolio)
 
